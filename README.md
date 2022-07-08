@@ -1,29 +1,29 @@
-Facial-recognition-on-real-time
+# Facial-recognition-on-real-time
 
-#Facial recognition is a way of identifying or confirming a person's identity through their face. Facial recognition systems can be used to identify people in photos, #videos or in real time.
-
-
-#I have used python language to create the system and other libraires , this is the link for download python : https://www.python.org/downloads
-#I have installed version 3.10
-
-#The libraries we must intall are these: opencv, Dlib, feca_recogniton, cmake, flask, caer
-#Guide of libraries installation:
+Facial recognition is a way of identifying or confirming a person's identity through their face. Facial recognition systems can be used to identify people in photos, videos or in real time.
 
 
-#opencv:
+I have used python language to create the system and other libraires , this is the link for download python : https://www.python.org/downloads ,I have installed version 3.10
+
+The libraries we must intall are these: opencv, Dlib, feca_recogniton, cmake, flask, caer
+
+
+# Guide of libraries installation:
+
+#  opencv:
 #C:\>pip install opencv-contrib-python
 #C:\>python -c "import cv2; print(cv2.__version__)"
 #4.5.5
 
 
-#dlib:
+#  dlib:
 #C:\>pip install cmake
 #C:\>pip install dlib
 
-#face_recogniton:
+#  face_recogniton:
 #C:\>pip install face_recognition
 
-#Flask:
+#  Flask:
 #C:\>pip install flask:
 
 #You can use command "pip list" to list installed packages,including editables.
