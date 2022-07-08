@@ -36,10 +36,10 @@ You can use command "pip list" to list installed packages,including editables.
 
 test1.py, test2.py, test3.py
 
-#test1.py: We will create a Python script called 'test1.py' to open the image and also for a video from our webcam.
+test1.py: We will create a Python script called 'test1.py' to open the image and also for a video from our webcam.
 
-#test2.py: we will create a file called 'test2.py' to compare images returning a true result if the images match and false if they do not.
+test2.py: we will create a file called 'test2.py' to compare images returning a true result if the images match and false if they do not.
 
-#test3.py: In this last one we will create a programme to detect faces by means of a real-time video. 
+test3.py: In this last one we will create a programme to detect faces by means of a real-time video. 
  
 Finally I've created app.py file whose we can display a webcam on real time into navegtor.
