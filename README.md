@@ -1,4 +1,4 @@
-#Facial-recognition-on-real-time
+# Facial-recognition-on-real-time
 
 #Facial recognition is a way of identifying or confirming a person's identity through their face. Facial recognition systems can be used to identify people in photos, #videos or in real time.
 
@@ -26,7 +26,7 @@
 #Flask:
 #C:\>pip install flask:
 
-# You can use command "pip list" to list installed packages,including editables.
+#You can use command "pip list" to list installed packages,including editables.
 
 #I've created three files to check if the libraries are working:
 #test1.py, test2.py, test3.py
